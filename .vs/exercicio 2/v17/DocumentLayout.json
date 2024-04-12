@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47344044889\\Desktop\\exercicio 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3E6E85-B4E4-4779-8508-07FE71BB6A7A}|exercicio 2\\exercicio 2.vcxproj|C:\\Users\\47344044889\\Desktop\\exercicio 2\\exercicio 2\\exercicio 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FE3E6E85-B4E4-4779-8508-07FE71BB6A7A}|exercicio 2\\exercicio 2.vcxproj|solutionrelative:exercicio 2\\exercicio 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercicio 2.cpp",
+              "DocumentMoniker": "C:\\Users\\47344044889\\Desktop\\exercicio 2\\exercicio 2\\exercicio 2.cpp",
+              "RelativeDocumentMoniker": "exercicio 2\\exercicio 2.cpp",
+              "ToolTip": "C:\\Users\\47344044889\\Desktop\\exercicio 2\\exercicio 2\\exercicio 2.cpp",
+              "RelativeToolTip": "exercicio 2\\exercicio 2.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-12T19:17:58.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
